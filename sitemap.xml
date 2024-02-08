@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/archives/index.html</loc>
+    <loc>http://example.com/2024/02/05/hello-world/</loc>
     
     <lastmod>2024-02-08</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/gallery/index.html</loc>
+    <loc>http://example.com/comment/index.html</loc>
     
     <lastmod>2024-02-08</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2024-02-08</lastmod>
     
@@ -47,9 +47,18 @@
   </url>
   
   <url>
-    <loc>http://example.com/2024/02/05/hello-world/</loc>
+    <loc>http://example.com/archives/index.html</loc>
     
-    <lastmod>2024-02-07</lastmod>
+    <lastmod>2024-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
+    
+    <lastmod>2024-02-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -75,15 +84,6 @@
   
   <url>
     <loc>http://example.com/about/index.html</loc>
-    
-    <lastmod>2024-02-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2024-02-06</lastmod>
     
@@ -149,6 +149,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/Python/</loc>
+    <lastmod>2024-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/Python-Basis/</loc>
     <lastmod>2024-02-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -157,13 +164,6 @@
   
   <url>
     <loc>http://example.com/tags/Mathematical-Model/</loc>
-    <lastmod>2024-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/Python/</loc>
     <lastmod>2024-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
