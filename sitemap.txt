@@ -13,11 +13,11 @@ http://example.com/2023/02/25/cengcifenxi/
 http://example.com/2023/02/24/markdown/
 http://example.com/
 http://example.com/tags/Daily-Life/
-http://example.com/tags/Python-Basis/
-http://example.com/tags/Mathematical-Model/
 http://example.com/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/
 http://example.com/tags/%E6%95%B0%E5%AD%A6%E5%A4%84%E7%90%86/
 http://example.com/tags/Python/
+http://example.com/tags/Python-Basis/
+http://example.com/tags/Mathematical-Model/
 http://example.com/categories/Daily-Life/
 http://example.com/categories/Python%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%B8%B8%E7%94%A8%E7%AE%97%E6%B3%95/
 http://example.com/categories/Python%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/
