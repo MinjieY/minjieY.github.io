@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-09T08:58:24.553Z</updated>
+  <updated>2024-02-09T13:12:37.990Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>text</title>
+    <link href="http://example.com/Aria.ying/3b8ba7c7.html"/>
+    <id>http://example.com/Aria.ying/3b8ba7c7.html</id>
+    <published>2024-02-09T13:08:37.000Z</published>
+    <updated>2024-02-09T13:12:37.990Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/imgs/$%7Bfiilename%7D/1704296710110170429671064.jpg" alt=""></p><p><img src="/imgs/$%7Bfiilename%7D/1704296780585170429678040-1707484341091-3.jpg" alt="1704296780585170429678040" style="zoom:50%;" /></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/imgs/$%7Bfiilename%7D/1704296710110170429671064.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/$%7Bfiilename%7D/1704296780585170429678040</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>python coding standard</title>

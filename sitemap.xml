@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/Aria.ying/3b8ba7c7.html</loc>
+    
+    <lastmod>2024-02-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/Aria.ying/7aecc5ee.html</loc>
     
     <lastmod>2024-02-09</lastmod>
@@ -128,14 +137,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/Daily-Life/</loc>
+    <loc>http://example.com/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/</loc>
     <lastmod>2024-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/</loc>
+    <loc>http://example.com/tags/Daily-Life/</loc>
     <lastmod>2024-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -158,14 +167,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/Daily-Life/</loc>
+    <loc>http://example.com/categories/Python-mathematical-modeling/</loc>
     <lastmod>2024-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Python-mathematical-modeling/</loc>
+    <loc>http://example.com/categories/Daily-Life/</loc>
     <lastmod>2024-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
