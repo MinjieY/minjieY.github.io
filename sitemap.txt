@@ -1,3 +1,4 @@
+http://example.com/ptotos/index.html
 http://example.com/Aria.ying/7aecc5ee.html
 http://example.com/Aria.ying/1557a53e.html
 http://example.com/Aria.ying/4902ec46.html
@@ -5,7 +6,6 @@ http://example.com/Aria.ying/1e432c02.html
 http://example.com/Aria.ying/4a17b156.html
 http://example.com/comment/index.html
 http://example.com/archives/index.html
-http://example.com/ptotos/index.html
 http://example.com/link/index.html
 http://example.com/tags/index.html
 http://example.com/categories/index.html
