@@ -128,14 +128,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/Daily-Life/</loc>
+    <loc>http://example.com/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/</loc>
     <lastmod>2024-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/</loc>
+    <loc>http://example.com/tags/Daily-Life/</loc>
     <lastmod>2024-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -156,27 +156,20 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Python/</loc>
-    <lastmod>2024-02-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/%E6%95%B0%E5%AD%A6%E5%A4%84%E7%90%86/</loc>
     <lastmod>2024-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://example.com/categories/Daily-Life/</loc>
+    <loc>http://example.com/tags/Python/</loc>
     <lastmod>2024-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>http://example.com/categories/Python%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%B8%B8%E7%94%A8%E7%AE%97%E6%B3%95/</loc>
@@ -186,7 +179,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/Python-basic/</loc>
+    <loc>http://example.com/categories/Daily-Life/</loc>
     <lastmod>2024-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -194,6 +187,13 @@
   
   <url>
     <loc>http://example.com/categories/Python%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</loc>
+    <lastmod>2024-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Python-basic/</loc>
     <lastmod>2024-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
