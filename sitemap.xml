@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/Aria.ying/3323a58a.html</loc>
+    
+    <lastmod>2024-02-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/Aria.ying/7aecc5ee.html</loc>
     
     <lastmod>2024-02-09</lastmod>
@@ -156,6 +165,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://example.com/categories/Mathematical-modeling/</loc>
+    <lastmod>2024-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://example.com/categories/Python-mathematical-modeling/</loc>
